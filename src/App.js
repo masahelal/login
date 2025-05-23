@@ -1,6 +1,6 @@
 import React from "react";
 import Login from "./Login";
-import Dashboard from "./Dashboard";
+import Dashboard from "./pages/Dashboard";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 function App() {
   return (
