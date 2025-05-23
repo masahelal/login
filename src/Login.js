@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import Dashboard from "./pages/Dashboard";
+/*import Dashboard from "./pages/Dashboard";*/
 import { useNavigate } from "react-router-dom";
 function Login() {
   const [isChecked, setIsChecked] = useState(false);
