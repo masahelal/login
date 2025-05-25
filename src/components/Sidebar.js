@@ -3,7 +3,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import * as FaIcons from "react-icons/fa";
 import { AiOutlineClose } from "react-icons/ai";
-import { SidebarData } from "/SidebarData";
+import { SidebarData } from "./SidebarData";
 import "./Sidebar.css";
 import { IconContext } from "react-icons";
 function Sidebar() {
